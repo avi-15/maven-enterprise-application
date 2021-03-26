@@ -19,11 +19,11 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
 	<!-- https://mvnrepository.com/artifact/org.sonarsource.sonarqube/sonar-plugin-api -->
-<dependency>
+  <dependency>
     <groupId>org.sonarsource.sonarqube</groupId>
     <artifactId>sonar-plugin-api</artifactId>
     <version>8.7.1.42226</version>
-</dependency>
+  </dependency>
 
   
 </project>
